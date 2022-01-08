@@ -1,0 +1,9 @@
+SpeechRecognition
+playsound
+gTTS
+nltk
+numpy
+tflearn
+serial
+tensorflow
+

@@ -1,0 +1,49 @@
+{"intents": [
+    {"tag": "weather",
+     "patterns": ["Tell me the weather" , "weather today" , "tell me about today's weather" , "weather","thundershower", "thunderstorm" ,"precipitation", "shower","cloudburst", "deluge", "downfall", "downpour", "rain", "rainfall", "rainstorm", "storm", "wet"],
+     "responses": ["weather forecast"],
+     "context_set": ""
+    },
+    {"tag": "gmail",
+     "patterns": ["open gmail", "open email", "i want to send a email", "open a gmail for me", "please open the gmail", "i want to send some mail","gmail","mail","Hotmail","email","send mail","show email" ],
+     "responses": ["open gmail"],
+     "context_set": ""
+    },
+    {"tag": "song",
+     "patterns": ["Play a song I love", "run some music please", "soothe my ear with music", "soothe my ear with a song", "play some music", "play a song","air","anthem","aria","ballad","canticle","carol","chant","chorale","chorus","ditty","hymn","lay","lullaby","melody","piece"],
+     "responses": ["play any song"],
+     "context_set": ""
+    },
+    {"tag": "facebook",
+     "patterns": ["open facebook", "open facebook please", "i want to watch some memes","facebook account open" , "show some memes" , "want to see what my friends are doing"],
+     "responses": ["open facebook"],
+     "context_set": ""
+    },
+    {"tag": "good_morning",
+     "patterns": ["good morning" , "good morning clara" , "this is a great morning" , "bonjour","buenos dias","good morrow","greetings"],
+     "responses": ["good morning"],
+     "context_set": ""
+    },
+    {"tag": "whatsapp",
+        "patterns": ["please open whatsapp" , "i want to chat in whatsapp" , "open the whatsapp" , "open whatsapp", "show my whatsapp" , "open whatsapp in browser" , "Show me if someone has sent me any text"],
+        "responses": ["whatsapp"],
+        "context_set": ""
+    },
+    {"tag": "sleep",
+        "patterns": ["go to sleep" , "bye bye" , "shutdown" , "good bye clara","dream","hibernation","slumber","trance","bedtime","catnap","dormancy","doze"],
+        "responses": ["sleep"],
+        "context_set": ""
+    },
+    {"tag": "github",
+        "patterns": ["open github", "open github please", "open my github account please", "Show me some codes" , "Show my previous codes" , "I want to upload my codes" , "open coding website for me"],
+        "responses": ["github"],
+        "context_set": ""
+    },
+    {"tag": "search",
+        "patterns": ["search for " , "search" , "Search element" , "search for something" , "examination","exploration","hunt","inquiry","inspection","investigation","pursuit","quest","research"],
+        "responses": ["search"],
+        "context_set": ""
+    }
+
+]
+}

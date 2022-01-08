@@ -1,0 +1,49 @@
+{"intents": [
+    {"tag": "weather",
+     "patterns": ["Tell me the weather" , "weather today" , "tell me about today's weather" , "weather"],
+     "responses": ["weather forecast"],
+     "context_set": ""
+    },
+    {"tag": "gmail",
+     "patterns": ["open gmail", "open email", "i want to send a email", "open a gmail for me", "please open the gmail", "i want to send some mail"],
+     "responses": ["open gmail"],
+     "context_set": ""
+    },
+    {"tag": "song",
+     "patterns": ["Play a song I love", "run some music please", "soothe my ear with music", "soothe my ear with a song", "play some music", "play a song"],
+     "responses": ["play any song"],
+     "context_set": ""
+    },
+    {"tag": "facebook",
+     "patterns": ["open facebook", "open facebook please", "i want to watch some memes"],
+     "responses": ["open facebook"],
+     "context_set": ""
+    },
+    {"tag": "good_morning",
+     "patterns": ["good morning" , "good morning clara" , "this is a great morning"],
+     "responses": ["good morning"],
+     "context_set": ""
+    },
+    {"tag": "whatsapp",
+        "patterns": ["please open whatsapp" , "i want to chat in whatsapp" , "open the whatsapp" , "open whatsapp"],
+        "responses": ["whatsapp"],
+        "context_set": ""
+    },
+    {"tag": "sleep",
+        "patterns": ["go to sleep" , "bye bye" , "shutdown" , "good bye clara"],
+        "responses": ["sleep"],
+        "context_set": ""
+    },
+    {"tag": "github",
+        "patterns": ["open github", "open github please", "open my github account please"],
+        "responses": ["github"],
+        "context_set": ""
+    },
+    {"tag": "search",
+        "patterns": ["search for " , "search" , "Search element" , "search for something"],
+        "responses": ["search"],
+        "context_set": ""
+    }
+
+]
+}

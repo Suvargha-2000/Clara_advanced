@@ -1,0 +1,47 @@
+[
+    {
+        "name" : "The Chainsmokers - Closer" ,
+        "link" : "https://www.youtube.com/watch?v=PT2_F-1esPk", 
+        "genre" : "love"
+    }, 
+    {
+        "name" : "Ed Sheeran - Shape of You" ,
+        "link" : "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+        "genre" : "love"
+    }, 
+    {
+        "name" : "Charlie Puth - We Don't Talk Anymore" ,
+        "link" : "https://www.youtube.com/watch?v=3AtDnEC4zak",
+        "genre" : "sad"
+    }, 
+    {
+        "name" : "In the end - Linkin Park",
+        "link" : "https://www.youtube.com/watch?v=eVTXPUF4Oz4",
+        "genre" : "rock"
+    }, 
+    {
+        "name" : "Ed Sheeran - South of the Border" ,
+        "link" : "https://www.youtube.com/watch?v=UPOT2tgY9QQ",
+        "genre" : "chill"
+    }, 
+    {
+        "name" : "Charlie Puth - Attention" ,
+        "link" : "https://www.youtube.com/watch?v=nfs8NYg7yQM",
+        "genre" : "sad"
+    }, 
+    {
+        "name" : "Marshmello & Anne-Marie - FRIENDS" ,
+        "link" : "https://www.youtube.com/watch?v=jzD_yyEcp0Mk",
+        "genre" : "chill"
+    },
+    {
+        "name" : "Maroon 5 - Memories" ,
+        "link" : "https://www.youtube.com/watch?v=SlPhMPnQ58k",
+        "genre" : "love"
+    },
+    {
+        "name" : "Maroon 5 - Girls Like You" ,
+        "link" : "https://www.youtube.com/watch?v=aJOTlE1K90k" , 
+        "genre" : "love"
+    }
+]
